@@ -1,0 +1,12 @@
+# Core Dependencies
+transformers>=4.0.0
+PyPDF2>=1.26.0
+python-docx>=0.8.10
+tqdm>=4.50.0
+torch>=1.7.0  # Only PyTorch
+
+# Development Tools (Optional)
+pytest>=6.0.0    # For running tests
+black>=21.0b0     # Code formatter
+flake8>=3.8.0     # Code linter for style checking
+mypy>=0.800       # Static type checker

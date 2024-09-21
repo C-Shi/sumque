@@ -1,0 +1,2 @@
+# Exclude the design_notes directory from the package
+exclude resources/*
